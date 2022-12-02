@@ -1,4 +1,4 @@
-# SQL-projects made by Clacarli
+🔮 # SQL projects made by Clacarli
 
-Here my SQL adventure in display. Best projects are yet to come, but it is all about start off.
+Here my SQL adventure in display. 
 Please reach out for comments, advices or collaboration proposals.
